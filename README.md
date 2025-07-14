@@ -1,5 +1,5 @@
 # fdlher
-A Data Lakehouse beased Framework
+A Data Lakehouse beased Framework for Renewable energies (FDLHER)
 
 Folder Structure
 ```
