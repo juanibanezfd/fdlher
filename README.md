@@ -2,7 +2,7 @@
 A Data Lakehouse beased Framework
 
 Folder Structure
-
+```
 /fdlher
 ├── /backend
 │   ├── /api
@@ -159,3 +159,4 @@ Folder Structure
 ├── .prettierrc                     # Configuração Prettier
 ├── LICENSE                         # Licença
 └── Makefile                        # Comandos úteis (ex.: build, test, migrate)
+```
